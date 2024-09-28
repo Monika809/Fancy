@@ -1,0 +1,15 @@
+.col{
+    border: 1px solid red;
+}
+.row{
+    border: 2px solid green;
+}
+.col-12 {
+    background: #f7e3e3;
+}
+.col-9{
+    background: #e3f4f7;
+}
+.col-3{
+    background: #adc9c2;
+}
